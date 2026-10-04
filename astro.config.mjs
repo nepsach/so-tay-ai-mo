@@ -21,7 +21,7 @@ export default defineConfig({
 			head: [
 				// Bản thử: chưa cho máy tìm kiếm lập chỉ mục. Bỏ dòng này khi Hiếu duyệt phát hành.
 				{ tag: 'meta', attrs: { name: 'robots', content: 'noindex, nofollow' } },
-				{ tag: 'meta', attrs: { property: 'og:image', content: `${SITE}${BASE}/anh-xem-truoc.png` } },
+				{ tag: 'meta', attrs: { property: 'og:image', content: `${SITE}${BASE}/anh/so-tay-ngang.png` } },
 				{ tag: 'meta', attrs: { property: 'og:site_name', content: 'Sổ tay AI mở cho thầy cô' } },
 			],
 			components: { Footer: './src/components/ChanTrang.astro' },
