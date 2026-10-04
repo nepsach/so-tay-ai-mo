@@ -1,0 +1,63 @@
+/* Giao diện theo skill brand-guidelines chính hãng Anthropic (anthropics/skills), Hiếu cho phép 04/10/2026 (lời dặn 790).
+   Nền #faf9f5, chữ #141413, xám #b0aea5 #e8e6dc, nhấn cam #d97757 (xanh lam #6a9bcc, xanh lá #788c5d cho khối hình).
+   Phông Lora cho cả tiêu đề (Poppins không có bộ chữ tiếng Việt). Chữ đọc 19px cho người trung niên (NN/g). */
+:root {
+	--sl-font: 'Lora', Georgia, serif;
+	--sl-text-base: 1.1875rem;
+	--sl-line-height: 1.7;
+	--sl-content-width: 46rem;
+}
+:root[data-theme='light'] {
+	--sl-color-black: #faf9f5;
+	--sl-color-white: #141413;
+	--sl-color-gray-1: #2b2a27;
+	--sl-color-gray-2: #3d3c38;
+	--sl-color-gray-3: #5e5d59;
+	--sl-color-gray-4: #87867f;
+	--sl-color-gray-5: #e8e6dc;
+	--sl-color-gray-6: #f0eee6;
+	--sl-color-gray-7: #f5f4ee;
+	--sl-color-accent-low: #f5e1d8;
+	--sl-color-accent: #b5532f;
+	--sl-color-accent-high: #7a3418;
+	--sl-color-bg-nav: #faf9f5;
+	--sl-color-bg-sidebar: #faf9f5;
+	--sl-color-hairline: #e8e6dc;
+	--sl-color-hairline-light: #e8e6dc;
+}
+:root:not([data-theme='light']) {
+	--sl-color-black: #141413;
+	--sl-color-white: #faf9f5;
+	--sl-color-accent-low: #3a2219;
+	--sl-color-accent: #d97757;
+	--sl-color-accent-high: #f5e1d8;
+}
+h1, h2, h3, .hero h1 { text-wrap: balance; letter-spacing: -0.01em; }
+.site-title { font-weight: 700; }
+@media (max-width: 50rem) {
+	:root { --sl-text-h1: 1.9rem; --sl-text-h2: 1.45rem; }
+	.site-title span { font-size: 1.05rem; white-space: normal; line-height: 1.25; text-wrap: balance; }
+}
+/* Ảnh thẻ đầu bài */
+.anh-the img { border-radius: 14px; border: 1px solid var(--sl-color-hairline); }
+/* Lưới bài trang chủ */
+.luoi-bai { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 1.25rem; margin-top: 1rem; }
+.luoi-bai a { display: block; text-decoration: none; color: var(--sl-color-white); }
+.luoi-bai img { width: 100%; border-radius: 12px; border: 1px solid var(--sl-color-hairline); display: block; }
+.luoi-bai span { display: block; margin-top: .5rem; font-weight: 600; line-height: 1.35; font-size: 1.05rem; }
+.luoi-bai a:hover span, .luoi-bai a:focus-visible span { color: var(--sl-color-accent); text-decoration: underline; }
+details { margin-top: 1rem; border-top: 1px solid var(--sl-color-hairline); padding-top: .75rem; }
+details summary { cursor: pointer; font-weight: 600; color: var(--sl-color-accent); }
+
+/* Màu ô ghi chú, nhãn theo bộ ba màu nhấn chính hãng (thay tím, xanh mặc định của Starlight) */
+:root[data-theme='light'] {
+	--sl-color-green-low: #e9eddf; --sl-color-green: #788c5d; --sl-color-green-high: #3f4c2c;
+	--sl-color-blue-low: #e3ecf6;  --sl-color-blue: #6a9bcc;  --sl-color-blue-high: #2c4f73;
+	--sl-color-orange-low: #f5e1d8; --sl-color-orange: #d97757; --sl-color-orange-high: #7a3418;
+	--sl-color-purple-low: #e9eddf; --sl-color-purple: #788c5d; --sl-color-purple-high: #3f4c2c;
+	--sl-color-red-low: #f5e1d8; --sl-color-red: #d97757; --sl-color-red-high: #7a3418;
+}
+.sl-badge { font-family: var(--sl-font); font-weight: 600; letter-spacing: 0; }
+/* Đầu trang chủ gọn lại */
+.hero { padding-block: 1.5rem 0.5rem; }
+@media (min-width: 50rem) { .hero { padding-block: 3rem 1rem; } }

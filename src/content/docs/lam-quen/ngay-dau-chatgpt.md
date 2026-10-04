@@ -1,32 +1,30 @@
 ---
 title: Ngày đầu dùng ChatGPT
-description: Ba bước bắt đầu dùng ChatGPT bản miễn phí trên điện thoại, và một việc nên làm ngay để giữ riêng tư.
+description: Ba bước bắt đầu dùng ChatGPT bản miễn phí trên điện thoại, và một cài đặt nên tắt ngay để giữ riêng tư.
+head:
+  - tag: meta
+    attrs: { property: "og:image", content: "https://nepsach.github.io/so-tay-ai-mo/anh/chatgpt-ngay-dau-ngang.png" }
 sidebar:
+  label: Ngày đầu dùng ChatGPT
   order: 4
 ---
 
-## Ba bước bắt đầu
+![Ngày đầu dùng ChatGPT trên điện thoại](/so-tay-ai-mo/anh/chatgpt-ngay-dau-ngang.png)
 
-1. Tải ứng dụng **ChatGPT** của OpenAI trên CH Play hoặc App Store. Xem kỹ tên nhà phát triển là **OpenAI**, vì có nhiều ứng dụng giả tên ChatGPT.
-2. Mở ứng dụng, đăng nhập bằng tài khoản Google (Gmail) sẵn có cho nhanh.
-3. Gõ hoặc bấm biểu tượng micro để nói câu nhờ. Ví dụ:
+**Ba bước, khoảng 5 phút. Bước 3 là bước nhiều người bỏ qua.**
+
+1. Tải ứng dụng **ChatGPT** trên CH Play hoặc App Store. Xem kỹ nhà phát triển là **OpenAI**, vì có nhiều ứng dụng giả tên.
+2. Đăng nhập bằng Gmail sẵn có.
+3. Vào **Settings** (Cài đặt) → **Data controls** (Kiểm soát dữ liệu) → tắt **Improve the model for everyone** (Cải thiện mô hình cho mọi người). Tắt rồi thì nội dung thầy cô gõ không được dùng để huấn luyện AI.
 
 :::tip[Câu thử đầu tiên]
 Bạn là giáo viên chủ nhiệm lớp 4. Viết tin nhắn ngắn gửi nhóm Zalo phụ huynh, nhắc các con mang áo mưa vì tuần này trời hay mưa. Giọng nhẹ nhàng, dưới 60 chữ, không dùng biểu tượng cảm xúc.
 :::
 
-## Một việc nên làm ngay
+:::caution[Nhớ]
+Không gõ tên, ảnh, điểm số, hoàn cảnh của học sinh. Số liệu, tên văn bản, tên sách luôn kiểm lại.
+:::
 
-Vào **Settings** (Cài đặt) → **Data controls** (Kiểm soát dữ liệu) → tắt **Improve the model for everyone** (Cải thiện mô hình cho mọi người). Tắt mục này thì nội dung thầy cô gõ không được dùng để huấn luyện AI.
-
-## Nhớ ba điều
-
-- ChatGPT có thể sai mà vẫn nói rất chắc. Số liệu, tên văn bản, tên sách luôn phải kiểm lại.
-- Không gõ tên, ảnh, điểm số, hoàn cảnh gia đình của học sinh.
-- Chưa ưng thì nói tiếp trong cùng cuộc trò chuyện, như dặn đồng nghiệp sửa lại.
-
-Đọc thêm: [ChatGPT bản miễn phí làm được gì](/so-tay-ai-mo/ung-dung/chatgpt/) · [Cách nhờ AI cho đúng ý](/so-tay-ai-mo/lam-quen/nho-ai-cho-dung-y/).
-
-:::note[Ngày tra cứu]
-Tra trên trang trợ giúp của OpenAI ngày 4/10/2026. Ứng dụng hay đổi giao diện; thầy cô thấy khác thì nhắn Nếp Sách cập nhật.
+:::note[Nguồn]
+Trang trợ giúp của OpenAI, tra ngày 4/10/2026. Tên mục bằng tiếng Việt trong ứng dụng có thể khác đôi chút.
 :::
