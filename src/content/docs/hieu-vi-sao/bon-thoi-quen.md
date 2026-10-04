@@ -20,6 +20,8 @@ sidebar:
 | **Soát lại** | AI hay sai số liệu, tên và số hiệu văn bản, tên sách, tác giả, trích dẫn. |
 | **Giữ an toàn** | Không đưa tên, ảnh, điểm số, hoàn cảnh học sinh. Làm theo quy định dùng AI của trường. |
 
+![Bốn thói quen khi làm việc với AI: chọn việc, nói rõ, soát lại, giữ an toàn.](/so-tay-ai-mo/anh/buoc/thoi-quen-1.png)
+
 Người ký tên, người đứng lớp vẫn là thầy cô, nên phần quyết định là của thầy cô.
 
 :::note[Nguồn tham khảo]

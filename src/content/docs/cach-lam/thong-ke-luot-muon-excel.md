@@ -18,8 +18,16 @@ sidebar:
 ## Ba bước
 
 1. **Mô tả bảng của mình cho AI** (ChatGPT hoặc Gemini) bằng câu mẫu dưới đây. Chỉ nói tên cột, không dán dữ liệu.
+
+   ![Câu nhờ AI chỉ tả tên các cột của bảng mượn trả, không dán danh sách học sinh.](/so-tay-ai-mo/anh/buoc/excel-1.png)
+
 2. **Dán công thức AI đưa vào ô thống kê.** Máy báo lỗi thì đổi mọi dấu phẩy `,` trong công thức thành dấu chấm phẩy `;`: máy cài định dạng Việt Nam thường dùng dấu chấm phẩy.
+
+   ![Dán công thức AI đưa vào ô thống kê của Excel; máy báo lỗi thì đổi dấu phẩy thành dấu chấm phẩy.](/so-tay-ai-mo/anh/buoc/excel-2.png)
+
 3. **Kiểm một lớp bằng tay:** bấm **Dữ liệu** → **Lọc**, lọc lớp 3A và tháng 10, đếm số dòng. Khớp với công thức thì dùng cho cả bảng.
+
+   ![Kiểm bằng tay: thẻ Dữ liệu, nút Lọc, lọc cột Lớp chỉ còn 3A rồi đếm số dòng.](/so-tay-ai-mo/anh/buoc/excel-3.png)
 
 :::tip[Câu mẫu: sửa phần trong ngoặc cho đúng bảng của mình]
 Tôi có bảng Excel, trang tính tên («Muon tra»): cột A là ngày mượn, cột B là lớp, cột C là mã học sinh, cột D là tên sách, cột E là ngày trả (để trống nếu chưa trả). Ở trang khác, ô B1 là ngày đầu tháng cần thống kê, cột A từ dòng 4 là tên lớp. Viết công thức đếm số lượt mượn của mỗi lớp trong tháng đó, và công thức đếm số sách lớp đó chưa trả. Giải thích từng phần của công thức bằng lời dễ hiểu.

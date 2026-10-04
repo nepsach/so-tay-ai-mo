@@ -23,6 +23,9 @@ sidebar:
 
 1. Vào [canva.com/education](https://www.canva.com/education/), chọn đăng ký cho giáo viên.
 2. Có email tên miền giáo dục được Canva công nhận thì vào ngay; không có thì tải ảnh chụp **một** giấy tờ ghi tên mình, tên trường, việc dạy học.
+
+   ![Giấy tờ dùng để xác minh Canva Giáo dục cần đọc rõ họ tên, tên trường và việc dạy học.](/so-tay-ai-mo/anh/buoc/canva-1.png)
+
 3. Chờ Canva xét, khoảng 48 giờ. Cứ 3 năm xác minh lại.
 
 <details>

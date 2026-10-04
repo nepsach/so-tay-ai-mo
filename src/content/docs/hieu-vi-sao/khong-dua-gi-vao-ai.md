@@ -25,7 +25,12 @@ sidebar:
 
 1. **Thay tên bằng mã** trước khi dán. Bảng đối chiếu mã với tên giữ riêng trên máy mình, không đưa vào AI.
 2. **Bỏ các chi tiết** giúp nhận ra em đó: lớp kèm hoàn cảnh, bệnh, tên bố mẹ. Chỉ khi dữ liệu không còn giúp xác định được học sinh mới là đã khử nhận dạng.
+
+   ![Trước khi dán vào AI: thay họ tên bằng mã HS01, bỏ cột lớp và hoàn cảnh; bảng mã với tên giữ riêng trên máy mình.](/so-tay-ai-mo/anh/buoc/du-lieu-1.png)
+
 3. **Tắt chia sẻ dữ liệu** của ứng dụng (ChatGPT: tắt «Cải thiện mô hình cho mọi người»), làm theo quy định dùng AI của trường.
+
+   ![Trang Kiểm soát dữ liệu của ChatGPT: công tắc Cải thiện mô hình cho mọi người ở trạng thái tắt.](/so-tay-ai-mo/anh/buoc/chatgpt-tat.png)
 
 <details>
 <summary>Xem thêm: luật và văn bản của Bộ nói gì (tóm tắt, có trích nguyên văn)</summary>

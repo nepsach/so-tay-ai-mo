@@ -14,8 +14,16 @@ sidebar:
 **Văn bản chỉ còn bản giấy mà cần sửa lại? Chụp một tấm ảnh, AI lấy chữ ra cho thầy cô, khỏi gõ lại từ đầu.**
 
 1. **Chụp thẳng trang giấy**: đủ sáng, không bóng tay, chữ nằm trọn trong khung.
+
+   ![Chụp đúng: trang giấy thẳng, đủ sáng, nằm trọn khung. Chụp chưa đạt: nghiêng, có bóng, mất góc.](/so-tay-ai-mo/anh/buoc/chup-chu-1.png)
+
 2. **Gửi ảnh vào Gemini hoặc ChatGPT** kèm câu nhờ dưới đây. Trang dài thì chụp và gửi từng trang.
+
+   ![Gửi ảnh trang giấy vào Gemini hoặc ChatGPT kèm câu nhờ chép lại nguyên văn.](/so-tay-ai-mo/anh/buoc/chup-chu-2.png)
+
 3. **Dò lại** số, ngày tháng, tên riêng, dấu tiếng Việt trước khi dùng.
+
+   ![Chữ AI chép lại: dò kỹ số hiệu, ngày tháng, tên riêng và dấu tiếng Việt với bản giấy.](/so-tay-ai-mo/anh/buoc/chup-chu-3.png)
 
 :::tip[Câu chép sẵn]
 Chép lại nguyên văn toàn bộ chữ trong ảnh này, giữ đúng xuống dòng và số thứ tự, không sửa, không tóm tắt. Chỗ nào mờ không đọc được thì ghi [không rõ].

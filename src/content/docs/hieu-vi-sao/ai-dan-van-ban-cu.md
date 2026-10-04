@@ -23,7 +23,13 @@ Thử ngày 4/10/2026, cùng một câu «soạn quyết định thành lập t�
 ## Soát trong một phút
 
 1. Khoanh mọi dòng «Căn cứ» và phần «Nơi nhận».
+
+   ![Bản AI soạn: khoanh mọi dòng Căn cứ và phần Nơi nhận để soát.](/so-tay-ai-mo/anh/buoc/van-ban-cu-1.png)
+
 2. Dán số hiệu văn bản vào Google, mở Thư viện Pháp luật hoặc LuatVietnam, xem dòng **Tình trạng**.
+
+   ![Trang tra cứu văn bản: dòng Tình trạng ghi Hết hiệu lực, có văn bản thay thế.](/so-tay-ai-mo/anh/buoc/van-ban-cu-2.png)
+
 3. Sửa lại rồi mới in, trình ký.
 
 :::tip[Nhờ AI tự tra thì gõ thêm]

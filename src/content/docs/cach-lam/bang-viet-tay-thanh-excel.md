@@ -15,7 +15,12 @@ sidebar:
 
 1. **Chụp từng trang bảng** thẳng, rõ từng dòng.
 2. **Gửi ảnh vào Gemini hoặc ChatGPT** kèm câu nhờ dưới đây.
+
+   ![Chụp thẳng trang bảng viết tay rồi gửi ảnh vào Gemini hoặc ChatGPT kèm câu nhờ chuyển thành bảng.](/so-tay-ai-mo/anh/buoc/bang-tay-1.png)
+
 3. **Sao chép bảng AI trả về, dán vào Excel.** Dò từng dòng số liệu với bản giấy.
+
+   ![Sao chép bảng AI trả về, dán vào Excel, rồi dò từng dòng với bản giấy.](/so-tay-ai-mo/anh/buoc/bang-tay-2.png)
 
 :::tip[Câu chép sẵn]
 Chuyển bảng viết tay trong ảnh thành bảng có các cột: (Số thứ tự, Tên sách, Tác giả, Số lượng, Ghi chú). Giữ nguyên số liệu, không làm tròn, không tự thêm dòng. Chỗ nào không đọc được thì ghi [không rõ]. Trả về dạng bảng để tôi dán vào Excel.

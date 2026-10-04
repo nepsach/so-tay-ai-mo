@@ -22,6 +22,8 @@ sidebar:
 | Dự án (Projects) | Có, mỗi dự án 5 tệp |
 | Tự tạo GPT riêng | Không |
 
+![Trong Cài đặt của ChatGPT, mở Kiểm soát dữ liệu rồi tắt Cải thiện mô hình cho mọi người.](/so-tay-ai-mo/anh/buoc/chatgpt-3.png)
+
 :::caution[Tắt ngay một cài đặt]
 **Settings** → **Data controls** → tắt **Improve the model for everyone**. Không gõ tên, ảnh, điểm số học sinh.
 :::

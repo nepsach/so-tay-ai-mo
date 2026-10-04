@@ -17,6 +17,8 @@ sidebar:
 2. Nhờ AI viết theo câu mẫu, dán thêm một bài cũ của trang trường để AI học giọng.
 3. Đọc lại tên lớp, ngày tháng; chọn ảnh theo lưu ý bên dưới.
 
+   ![Từ vài dòng ghi chép thành bài đăng trang trường; ảnh chụp các em từ phía sau, không lộ mặt.](/so-tay-ai-mo/anh/buoc/bai-dang-1.png)
+
 :::tip[Câu chép sẵn]
 Viết bài đăng khoảng 150 chữ cho trang Facebook của trường về hoạt động thư viện sau: (dán ghi chép). Giọng trang trọng, ấm áp, giống bài mẫu này: (dán một bài cũ). Không dùng biểu tượng cảm xúc, không dùng từ quá đà như «tuyệt vời nhất». Kết bằng một câu mời các em đến thư viện.
 :::

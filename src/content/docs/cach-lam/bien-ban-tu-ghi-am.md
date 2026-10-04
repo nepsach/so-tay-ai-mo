@@ -14,8 +14,16 @@ sidebar:
 **Họp xong khỏi ngồi nhớ lại ai nói gì. Gemini Notebook nghe tệp ghi âm, tóm ý chính, chỉ đúng đoạn để thầy cô kiểm.**
 
 1. **Báo mọi người trước khi ghi âm**, ghi bằng điện thoại để gần người nói.
+
+   ![Ứng dụng ghi âm trên điện thoại đang ghi cuộc họp; đặt điện thoại gần người nói.](/so-tay-ai-mo/anh/buoc/bien-ban-1.png)
+
 2. Mở Gemini Notebook → **Tạo sổ ghi chú mới** → **Tải nguồn lên** tệp ghi âm (MP3, WAV…).
+
+   ![Hộp Thêm nguồn của Gemini Notebook: bấm Tải nguồn lên, chọn tệp ghi âm cuộc họp.](/so-tay-ai-mo/anh/buoc/bien-ban-2.png)
+
 3. Hỏi theo câu mẫu, bấm số trích dẫn để nghe lại đúng chỗ, rồi mới ghi vào biên bản.
+
+   ![Gemini Notebook liệt kê việc được giao trong cuộc họp, kèm số nhỏ để nghe lại đúng đoạn.](/so-tay-ai-mo/anh/buoc/bien-ban-3.png)
 
 :::tip[Câu chép sẵn]
 Từ tệp ghi âm cuộc họp này, liệt kê: các nội dung đã bàn; các việc được giao (ai làm, hạn nào); các ý kiến còn khác nhau. Chỉ dùng điều có trong tệp, không tự thêm.

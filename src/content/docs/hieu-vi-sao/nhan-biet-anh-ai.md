@@ -17,6 +17,8 @@ sidebar:
 
 Gửi ảnh vào ứng dụng **Gemini**, hỏi: «Ảnh này có được tạo bằng AI của Google không?». Gemini tìm dấu ẩn **SynthID** mà Google gắn vào ảnh, video do AI của Google tạo.
 
+![Gửi ảnh vào ứng dụng Gemini và hỏi ảnh này có được tạo bằng AI của Google không.](/so-tay-ai-mo/anh/buoc/anh-ai-1.png)
+
 | Gemini trả lời được | Gemini không trả lời được |
 |---|---|
 | Ảnh tạo, sửa bằng AI của Google | Ảnh do AI hãng khác tạo |
@@ -26,6 +28,9 @@ Gửi ảnh vào ứng dụng **Gemini**, hỏi: «Ảnh này có được tạo
 
 1. **Hỏi ai đăng**: trang chính thức của cơ quan, báo, hay một tài khoản lạ.
 2. **Tìm ảnh gốc**: bấm giữ ảnh → tìm bằng Google Lens, xem ảnh xuất hiện lần đầu ở đâu.
+
+   ![Bấm giữ ảnh trên điện thoại, chọn tìm bằng Google Lens để xem ảnh xuất hiện lần đầu ở đâu.](/so-tay-ai-mo/anh/buoc/anh-ai-2.png)
+
 3. **Đối chiếu tin khác**: chuyện lớn thật thì nhiều nguồn đáng tin cùng đưa.
 
 <details>

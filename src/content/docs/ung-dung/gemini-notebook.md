@@ -21,6 +21,8 @@ sidebar:
 | Thẻ thông tin, bài kiểm tra, bản đồ tư duy, báo cáo | Mỗi loại 10 mỗi ngày |
 | Tài liệu đưa vào | PDF, Word, PowerPoint, Google Tài liệu, ảnh, ghi âm, trang web, YouTube |
 
+![Gemini Notebook trả lời kèm số nhỏ; bấm số để xem câu gốc trong công văn.](/so-tay-ai-mo/anh/buoc/notebook-3.png)
+
 Bài thực hành: [Đọc nhanh công văn dài](/so-tay-ai-mo/cach-lam/doc-nhanh-cong-van-dai/).
 
 <details>

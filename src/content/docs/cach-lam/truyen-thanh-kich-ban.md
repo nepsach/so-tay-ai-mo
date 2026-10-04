@@ -17,6 +17,8 @@ sidebar:
 2. Nhờ AI viết kịch bản theo câu mẫu.
 3. Cho các em đọc thử, sửa câu khó nói, rồi mới tập.
 
+   ![Kịch bản đóng vai Cây khế: dòng đầu ghi số em, lớp, thời lượng; lời thoại ngắn; câu khó nói được sửa sau khi đọc thử.](/so-tay-ai-mo/anh/buoc/kich-ban-1.png)
+
 :::tip[Câu chép sẵn]
 Chuyển truyện cổ tích (Cây khế) thành kịch bản đóng vai cho (6) học sinh (lớp 4), diễn trong (8) phút. Có người dẫn chuyện. Mỗi lời thoại ngắn, dễ thuộc, giữ đúng tình tiết truyện. Ghi rõ đạo cụ đơn giản làm được ở trường.
 :::

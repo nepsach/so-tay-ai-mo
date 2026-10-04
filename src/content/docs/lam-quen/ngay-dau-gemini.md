@@ -15,7 +15,12 @@ sidebar:
 
 1. Tải ứng dụng **Gemini** của Google trên CH Play hoặc App Store, đăng nhập bằng Gmail.
 2. Gõ câu hỏi, hoặc bấm biểu tượng **micro** để nói. Gửi kèm ảnh, tệp Word, PDF để hỏi về nội dung trong đó.
+
+   ![Màn hình Gemini trên điện thoại: nút micro để nói, nút dấu cộng để gửi ảnh, tệp.](/so-tay-ai-mo/anh/buoc/gemini-1.png)
+
 3. Việc cần riêng tư thì mở **trò chuyện tạm thời**: không lưu vào lịch sử, không dùng để huấn luyện AI.
+
+   ![Mở trò chuyện tạm thời: bấm Trình đơn, rồi bấm biểu tượng nằm cạnh Cuộc trò chuyện mới.](/so-tay-ai-mo/anh/buoc/gemini-2.png)
 
 :::tip[Câu thử đầu tiên]
 Bạn là thủ thư trường tiểu học. Gợi ý 5 hoạt động cho góc đọc sách tháng 11 về chủ đề thầy cô, mỗi hoạt động một dòng, làm được trong 15 phút ra chơi.

@@ -22,6 +22,8 @@ sidebar:
 | Kỹ năng (lưu lời dặn) | Có, cần Gmail cá nhân, từ 18 tuổi |
 | Tạo video | Không |
 
+![Màn hình Gemini trên điện thoại: nút micro để nói, nút dấu cộng để gửi ảnh, tệp.](/so-tay-ai-mo/anh/buoc/gemini-1.png)
+
 Hạn mức dùng làm mới sau mỗi 5 giờ; xem ở **Cài đặt** → **Hạn mức sử dụng**.
 
 :::tip[Tài khoản Google của trường]

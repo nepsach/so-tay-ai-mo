@@ -21,6 +21,8 @@ Nhờ AI một câu như «Gợi ý 6 cuốn sách thiếu nhi Việt Nam về b
 
 ## Hoạt động 35 phút: 4 bước kiểm (SIFT)
 
+![Bốn bước kiểm SIFT: dừng lại 5 phút, xem ai nói 5 phút, tìm nguồn khác 15 phút, lần về gốc 10 phút.](/so-tay-ai-mo/anh/buoc/tiet-hoc-1.png)
+
 1. **Dừng lại** (5 phút): chiếu câu trả lời của AI. Hỏi: «Mình có biết các cuốn này có thật không?»
 2. **Xem ai nói** (5 phút): AI không phải nhà xuất bản, không phải thư viện. AI viết câu nghe hợp lý, không chắc đúng.
 3. **Tìm nguồn khác** (15 phút): mỗi nhóm kiểm 1–2 cuốn: có trong kho không, tác giả đúng không, nhà xuất bản có in cuốn này không.
@@ -32,6 +34,8 @@ Nhờ AI một câu như «Gợi ý 6 cuốn sách thiếu nhi Việt Nam về b
 | Có trong kho thư viện không | |
 | Tác giả, nhà xuất bản đúng không | |
 | Em kiểm ở đâu | |
+
+![Phiếu kiểm của nhóm đã điền: tên sách AI đưa, có trong kho không, tác giả và nhà xuất bản, em kiểm ở đâu.](/so-tay-ai-mo/anh/buoc/tiet-hoc-2.png)
 
 <details>
 <summary>Xem thêm: phân công, gắn với giáo dục AI năm học này</summary>

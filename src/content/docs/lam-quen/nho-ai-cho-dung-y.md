@@ -22,6 +22,8 @@ Thử ngày 4/10/2026: gõ «Soạn câu hỏi đọc hiểu truyện Cây khế
 | **Bối cảnh** | Học sinh lớp 3, nhiều em đọc chậm. |
 | **Cách trình bày** | Danh sách đánh số, mỗi câu kèm gợi ý đáp án, không kẻ bảng. |
 
+![Một câu nhờ AI chia bốn dòng: vai, việc, bối cảnh, cách trình bày.](/so-tay-ai-mo/anh/buoc/nho-ai-1.png)
+
 :::tip[Câu mẫu: chép rồi sửa phần trong ngoặc]
 Bạn là giáo viên (tiểu học) có kinh nghiệm dạy đọc. Soạn (6) câu hỏi đọc hiểu (truyện cổ tích Cây khế) cho học sinh (lớp 3): (2) câu nhận biết chi tiết, (2) câu hiểu ý nghĩa, (2) câu liên hệ bản thân. Lớp có nhiều em đọc chậm nên câu hỏi ngắn, dùng từ quen thuộc. Trình bày thành danh sách đánh số, mỗi câu kèm gợi ý đáp án một dòng, không kẻ bảng, không hỏi lại ở cuối.
 :::

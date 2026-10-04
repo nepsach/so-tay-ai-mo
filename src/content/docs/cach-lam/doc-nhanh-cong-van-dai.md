@@ -14,8 +14,16 @@ sidebar:
 **Gemini Notebook (trước là NotebookLM) chỉ trả lời dựa trên văn bản mình đưa vào, và ghi số trích dẫn tới đúng câu gốc.**
 
 1. Mở Gemini Notebook, bấm **Tạo sổ ghi chú mới**.
+
+   ![Trang đầu Gemini Notebook: bấm Tạo sổ ghi chú mới.](/so-tay-ai-mo/anh/buoc/notebook-1.png)
+
 2. Bấm **Tải nguồn lên**, chọn tệp PDF hoặc Word của công văn.
+
+   ![Hộp Thêm nguồn của Gemini Notebook: bấm Tải nguồn lên, chọn tệp PDF hoặc Word của công văn.](/so-tay-ai-mo/anh/buoc/notebook-2.png)
+
 3. Hỏi trong ô **Cuộc trò chuyện**, rồi **bấm vào số nhỏ** sau mỗi ý để xem câu gốc.
+
+   ![Gemini Notebook trả lời kèm số nhỏ; bấm số để xem câu gốc trong công văn.](/so-tay-ai-mo/anh/buoc/notebook-3.png)
 
 :::tip[Câu hỏi mẫu]
 Trong văn bản này, (thư viện trường) phải làm những việc gì? Liệt kê từng việc, hạn hoàn thành nếu có, và ghi rõ nằm ở mục nào của văn bản.

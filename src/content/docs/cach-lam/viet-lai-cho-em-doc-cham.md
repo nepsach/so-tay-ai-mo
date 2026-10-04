@@ -17,6 +17,8 @@ sidebar:
 2. Nhờ viết lại bằng câu mẫu dưới đây.
 3. Đặt hai bản cạnh nhau, kiểm đủ ý, đủ chi tiết, không thêm điều bản gốc không có.
 
+   ![Bản gốc một câu dài và bản viết lại thành bốn câu ngắn, giữ đủ ý: vua Hùng, Mị Nương, xinh đẹp hiền dịu, kén chồng.](/so-tay-ai-mo/anh/buoc/doc-cham-1.png)
+
 :::tip[Câu chép sẵn]
 Viết lại đoạn văn dưới đây cho học sinh (lớp 3) đọc còn chậm: mỗi câu dưới 15 chữ, dùng từ quen thuộc, giữ đủ các ý và chi tiết của bản gốc, không thêm ý mới. Sau đó liệt kê các từ khó trong bản gốc kèm giải thích ngắn.
 :::

@@ -61,3 +61,10 @@ details summary { cursor: pointer; font-weight: 600; color: var(--sl-color-accen
 /* Đầu trang chủ gọn lại */
 .hero { padding-block: 1.5rem 0.5rem; }
 @media (min-width: 50rem) { .hero { padding-block: 3rem 1rem; } }
+
+/* Hình minh họa từng bước (lời dặn 794): khung nhẹ, bo góc, cách đều bước */
+.sl-markdown-content img[src*="/anh/buoc/"] {
+  border-radius: 12px;
+  border: 1px solid var(--sl-color-gray-5);
+  margin-block: 0.6rem 0.4rem;
+}
