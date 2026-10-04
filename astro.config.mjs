@@ -13,7 +13,7 @@ export default defineConfig({
 		starlight({
 			title: 'Sổ tay AI mở cho thầy cô',
 			description:
-				'Cách dùng AI cho công việc ở trường, Nếp Sách chia sẻ miễn phí. Cách nào cũng được làm thử trước khi hướng dẫn.',
+				'Cách dùng AI cho công việc ở trường, Nếp Sách chia sẻ miễn phí. Mỗi bài dựa trên hướng dẫn chính hãng mới nhất, ghi rõ nguồn và ngày tra.',
 			logo: { src: './src/assets/bieu-tuong.svg', alt: 'Biểu tượng Nếp Sách' },
 			favicon: '/favicon.svg',
 			// Một ngôn ngữ, đặt ở gốc trang (không có /vi/ trong địa chỉ)

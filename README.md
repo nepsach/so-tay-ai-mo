@@ -1,6 +1,6 @@
 # Sổ tay AI mở cho thầy cô
 
-Cách dùng AI cho công việc ở trường, Nếp Sách chia sẻ miễn phí. Cách nào cũng được làm thử trước khi hướng dẫn.
+Cách dùng AI cho công việc ở trường, Nếp Sách chia sẻ miễn phí. Mỗi bài dựa trên hướng dẫn chính hãng mới nhất, ghi rõ nguồn và ngày tra.
 
 Đọc sổ tay tại: https://nepsach.github.io/so-tay-ai-mo/
 

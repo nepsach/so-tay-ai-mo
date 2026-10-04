@@ -33,5 +33,5 @@ Danh sách học sinh, bảng điểm, hồ sơ cá nhân. Công văn, kế ho�
 :::
 
 :::note[Nguồn]
-Các bước và tên nút theo trang trợ giúp Gemini Notebook bản tiếng Việt, tra ngày 4/10/2026. Nếp Sách sẽ chụp ảnh từng bước khi làm thử trên tài khoản thật.
+Các bước và tên nút theo trang trợ giúp Gemini Notebook bản tiếng Việt, tra ngày 4/10/2026.
 :::
