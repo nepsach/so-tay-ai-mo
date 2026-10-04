@@ -21,7 +21,7 @@ sidebar:
 
    ![Hộp Thêm nguồn của Gemini Notebook: bấm Tải nguồn lên, chọn tệp PDF hoặc Word của công văn.](/so-tay-ai-mo/anh/buoc/notebook-2.png)
 
-3. Hỏi trong ô **Cuộc trò chuyện**, rồi **bấm vào số nhỏ** sau mỗi ý để xem câu gốc.
+3. Hỏi trong bảng **Trò chuyện**, rồi **bấm vào số nhỏ** sau mỗi ý để xem câu gốc.
 
    ![Gemini Notebook trả lời kèm số nhỏ; bấm số để xem câu gốc trong công văn.](/so-tay-ai-mo/anh/buoc/notebook-3.png)
 

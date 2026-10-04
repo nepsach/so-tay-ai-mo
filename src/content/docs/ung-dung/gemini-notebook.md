@@ -15,11 +15,10 @@ sidebar:
 
 | Bản miễn phí | |
 |---|---|
-| Sổ ghi chú | 100 sổ, mỗi sổ 50 tài liệu |
-| Câu hỏi | 50 câu mỗi ngày |
-| Bản nghe, bản video tóm tắt (có tiếng Việt) | Mỗi loại 3 bản mỗi ngày |
-| Thẻ thông tin, bài kiểm tra, bản đồ tư duy, báo cáo | Mỗi loại 10 mỗi ngày |
-| Tài liệu đưa vào | PDF, Word, PowerPoint, Google Tài liệu, ảnh, ghi âm, trang web, YouTube |
+| Hạn mức dùng | «Hạn mức tiêu chuẩn», làm mới sau mỗi 5 giờ, có trần mỗi tuần (áp dụng từ 2/9/2026). Xem ở **Cài đặt** → **Mức sử dụng** |
+| Tài liệu mỗi sổ | Tối đa 50 nguồn; mỗi nguồn 500.000 từ hoặc 200 MB |
+| Bảng **Studio** | Tổng quan bằng âm thanh (có tiếng Việt), Tổng quan bằng video, Bản đồ tư duy, Báo cáo, Thẻ thông tin, Bài kiểm tra |
+| Tài liệu đưa vào | PDF, Word, PowerPoint, ePub, Google Tài liệu, ảnh, ghi âm, trang web, YouTube |
 
 ![Gemini Notebook trả lời kèm số nhỏ; bấm số để xem câu gốc trong công văn.](/so-tay-ai-mo/anh/buoc/notebook-3.png)
 
@@ -30,12 +29,12 @@ Bài thực hành: [Đọc nhanh công văn dài](/so-tay-ai-mo/cach-lam/doc-nha
 
 - Gmail cá nhân ở Việt Nam từ 15 tuổi; tài khoản Google của trường dùng được ở mọi lứa tuổi.
 - Ứng dụng **Gemini Notebook** trên Android, iPhone có hỏi đáp, bản nghe, thẻ thông tin, bài kiểm tra.
-- Mỗi tài liệu tối đa 500.000 từ hoặc 200 MB; PDF khóa chống sao chép không đưa vào được.
+- PDF khóa chống sao chép không đưa vào được.
 - Ảnh, video AI tạo cho người dùng ở Việt Nam luôn có hình mờ.
 - Google viết: dữ liệu Gmail cá nhân không dùng để huấn luyện, trừ khi bấm phản hồi (thích, không thích). Tài khoản trường: không người xem, không huấn luyện.
 
 </details>
 
 :::note[Nguồn]
-Trang trợ giúp Gemini Notebook bản tiếng Việt, blog Google Workspace, tra ngày 4/10/2026. Google ghi hạn mức có thể thay đổi.
+Trang trợ giúp Gemini Notebook bản tiếng Việt («Quản lý hạn mức sử dụng», «Thêm hoặc khám phá các nguồn mới»), blog Google Workspace, tra ngày 4/10/2026. Google ghi hạn mức có thể thay đổi.
 :::

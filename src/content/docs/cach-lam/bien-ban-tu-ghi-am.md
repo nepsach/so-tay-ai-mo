@@ -34,7 +34,7 @@ Từ tệp ghi âm cuộc họp này, liệt kê: các nội dung đã bàn; cá
 
 - Biên bản vẫn do thư ký viết và người chủ trì ký; phần AI tóm chỉ để đỡ phải nghe lại cả buổi.
 - Cuộc họp có bàn về học sinh cụ thể (kỷ luật, hoàn cảnh): không đưa tệp ghi âm lên AI.
-- Bản miễn phí Gemini Notebook: 50 câu hỏi mỗi ngày, mỗi sổ 50 tài liệu.
+- Bản miễn phí Gemini Notebook dùng «hạn mức tiêu chuẩn», làm mới sau mỗi 5 giờ; mỗi sổ tối đa 50 nguồn. Tệp âm thanh nhận được: MP3, WAV và nhiều loại khác.
 
 </details>
 
