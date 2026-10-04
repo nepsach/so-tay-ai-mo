@@ -58,7 +58,7 @@ h1, h2, h3, .hero h1 { text-wrap: balance; }
 /* Điện thoại: tên trang ở thanh đầu không bị cắt, tiêu đề vừa màn hình */
 @media (max-width: 50rem) {
 	:root { --sl-text-h1: 1.9rem; --sl-text-h2: 1.5rem; }
-	.site-title span { font-size: 1.05rem; white-space: normal; line-height: 1.25; }
+	.site-title span { font-size: 1.05rem; white-space: normal; line-height: 1.25; text-wrap: balance; }
 }
 
 /* Trang chủ: biểu tượng vừa phải, không chiếm nửa màn hình */
