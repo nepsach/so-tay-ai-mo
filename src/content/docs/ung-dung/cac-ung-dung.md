@@ -17,7 +17,7 @@ sidebar:
 |---|---|---|
 | Soạn chữ, tra mạng | ChatGPT | [ChatGPT miễn phí dùng được đến đâu](/so-tay-ai-mo/ung-dung/chatgpt/) |
 | Soạn chữ, lưu lời dặn dùng lại | Gemini | [Gemini làm được gì](/so-tay-ai-mo/ung-dung/gemini/) |
-| Hỏi đáp trên tài liệu của mình | Gemini Notebook | [Gemini Notebook làm được gì](/so-tay-ai-mo/ung-dung/gemini-notebook/) |
+| Hỏi đáp trên tài liệu của mình | Gemini Notebook | [Gemini Notebook từ A đến Z](/so-tay-ai-mo/ung-dung/gemini-notebook/) |
 | Slide, áp phích, phiếu học tập | Canva | [Canva và Canva Giáo dục](/so-tay-ai-mo/ung-dung/canva/) |
 
 Muốn có bài về ứng dụng khác, nhắn Nếp Sách ở mục [Thầy cô hỏi, Nếp Sách trả lời](/so-tay-ai-mo/hoi-dap/cach-hoi/).
