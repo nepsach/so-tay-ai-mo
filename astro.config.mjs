@@ -18,11 +18,6 @@ export default defineConfig({
 			favicon: '/favicon.svg',
 			// Một ngôn ngữ, đặt ở gốc trang (không có /vi/ trong địa chỉ)
 			locales: { root: { label: 'Tiếng Việt', lang: 'vi' } },
-			customCss: [
-				'@fontsource/andika/400.css',
-				'@fontsource/andika/700.css',
-				'./src/styles/nep-sach.css',
-			],
 			head: [
 				// Bản thử: chưa cho máy tìm kiếm lập chỉ mục. Bỏ dòng này khi Hiếu duyệt phát hành.
 				{ tag: 'meta', attrs: { name: 'robots', content: 'noindex, nofollow' } },

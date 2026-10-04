@@ -7,11 +7,8 @@ sidebar:
 
 Phần này dành cho thầy cô chưa dùng AI bao giờ, hoặc mới dùng vài lần. Các bài đi từ dễ đến khó, làm được ngay trên điện thoại.
 
-Các bài Nếp Sách đang soạn, sẽ đưa lên lần lượt:
+Nên đọc theo thứ tự:
 
-- Ngày đầu dùng Gemini trên điện thoại, bằng tài khoản Google sẵn có.
-- Ngày đầu dùng ChatGPT bản miễn phí.
-- Cách nhờ AI cho đúng ý: nói rõ vai, việc, bối cảnh, cách trình bày.
-- Những gì không nên đưa vào AI: tên, ảnh, điểm số của học sinh.
-
-Trong lúc chờ, thầy cô đọc trước bài [Bốn thói quen khi làm việc với AI](/so-tay-ai-mo/hieu-vi-sao/bon-thoi-quen/).
+1. [Cách nhờ AI cho đúng ý](/so-tay-ai-mo/lam-quen/nho-ai-cho-dung-y/)
+2. [Ngày đầu dùng ChatGPT](/so-tay-ai-mo/lam-quen/ngay-dau-chatgpt/)
+3. [Bốn thói quen khi làm việc với AI](/so-tay-ai-mo/hieu-vi-sao/bon-thoi-quen/)

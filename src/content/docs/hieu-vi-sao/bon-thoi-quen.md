@@ -28,4 +28,7 @@ AI viết rất trôi chảy, kể cả khi sai. Những chỗ AI hay sai: số 
 
 Không đưa tên, ảnh, điểm số, hoàn cảnh gia đình của học sinh vào AI. Làm theo quy định dùng AI của trường mình. Người ký tên, người đứng lớp vẫn là thầy cô, nên phần quyết định là của thầy cô.
 
-<p class="ngay-thu">Bốn thói quen này tham khảo khung AI Fluency của Rick Dakan và Joseph Feller, và hướng dẫn viết câu lệnh cho Gemini của Google; lời và ví dụ do Nếp Sách viết cho thầy cô Việt Nam.</p>
+
+:::note[Nguồn tham khảo]
+Bốn thói quen này tham khảo khung AI Fluency của Rick Dakan và Joseph Feller, và hướng dẫn viết câu lệnh cho Gemini của Google; lời và ví dụ do Nếp Sách viết cho thầy cô Việt Nam.
+:::

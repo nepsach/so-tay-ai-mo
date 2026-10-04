@@ -7,11 +7,9 @@ sidebar:
 
 Mỗi ứng dụng sẽ có một trang riêng, ghi rõ: làm được việc gì, bản miễn phí dùng được đến đâu, cài trên điện thoại thế nào, lỗi hay gặp và cách sửa.
 
-Các trang Nếp Sách đang soạn:
-
-- **Gemini** của Google: trò chuyện, soạn văn bản, làm ảnh.
-- **ChatGPT**: trò chuyện, soạn văn bản.
-- **NotebookLM**: đưa tài liệu vào rồi hỏi, tóm tắt, làm câu hỏi ôn tập.
-- **Canva**: làm slide, áp phích, phiếu học tập.
+- [ChatGPT](/so-tay-ai-mo/ung-dung/chatgpt/): trò chuyện, soạn văn bản, tra mạng.
+- [Gemini Notebook (trước đây là NotebookLM)](/so-tay-ai-mo/ung-dung/gemini-notebook/): đưa tài liệu vào rồi hỏi, tóm tắt, làm thẻ ôn tập, bài kiểm tra.
+- [Canva](/so-tay-ai-mo/ung-dung/canva/): làm slide, áp phích, phiếu học tập; Canva Giáo dục miễn phí cho giáo viên, thủ thư trường phổ thông.
+- **Gemini** của Google: trang đang soạn.
 
 Thầy cô muốn có trang về ứng dụng nào trước, nhắn Nếp Sách ở mục [Thầy cô hỏi, Nếp Sách trả lời](/so-tay-ai-mo/hoi-dap/cach-hoi/).

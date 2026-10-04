@@ -19,10 +19,17 @@ Máy không hỏng. Nút «Sao chép» của ChatGPT, Gemini chép kèm một b�
 ## Cách 2. Gửi qua Zalo trên điện thoại
 
 1. Trước khi sao chép, gõ thêm cho AI một câu:
-   <p class="cau-lenh">Viết lại bằng chữ thường, không dùng dấu sao, dấu thăng, không kẻ bảng, không hỏi lại ở cuối.</p>
+
+   :::tip[Câu chép sẵn]
+   Viết lại bằng chữ thường, không dùng dấu sao, dấu thăng, không kẻ bảng, không hỏi lại ở cuối.
+   :::
+
 2. Bấm «Sao chép» dưới câu trả lời mới, rồi dán vào Zalo.
 3. Đọc lại một lượt trước khi gửi.
 
 Trước khi in, gửi: xóa câu AI hỏi ở cuối («Bạn có cần điều chỉnh…?») và tên trang nguồn ChatGPT để sót, như «Chinh Phu Document System».
 
-<p class="ngay-thu">Nếp Sách làm thử ngày 4/10/2026 trên Gemini và ChatGPT bản miễn phí. Các ứng dụng này hay đổi giao diện; thầy cô thấy khác hình trong bài thì nhắn để Nếp Sách cập nhật.</p>
+
+:::note[Ngày làm thử]
+Nếp Sách làm thử ngày 4/10/2026 trên Gemini và ChatGPT bản miễn phí. Các ứng dụng này hay đổi giao diện; thầy cô thấy khác hình trong bài thì nhắn để Nếp Sách cập nhật.
+:::
