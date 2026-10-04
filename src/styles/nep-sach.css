@@ -54,3 +54,15 @@ h1, h2, h3, .hero h1 { text-wrap: balance; }
 	color: var(--sl-color-gray-2);
 	line-height: 1.6;
 }
+
+/* Điện thoại: tên trang ở thanh đầu không bị cắt, tiêu đề vừa màn hình */
+@media (max-width: 50rem) {
+	:root { --sl-text-h1: 1.9rem; --sl-text-h2: 1.5rem; }
+	.site-title span { font-size: 1.05rem; white-space: normal; line-height: 1.25; }
+}
+
+/* Trang chủ: biểu tượng vừa phải, không chiếm nửa màn hình */
+.hero > img, .hero .hero-html { width: min(9rem, 35vw); height: auto; }
+
+/* Liên kết ở chân trang theo màu chàm */
+.chan-giay-phep a { color: var(--sl-color-accent); }
