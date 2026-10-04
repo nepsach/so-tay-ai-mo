@@ -1,6 +1,6 @@
 ---
 title: Gemini bản miễn phí làm được gì
-description: Gemini của Google bản miễn phí: trò chuyện, tải tệp, tạo ảnh, kỹ năng. Tài khoản Google của trường có Gemini miễn phí và dữ liệu không dùng để huấn luyện.
+description: "Gemini của Google bản miễn phí: trò chuyện, tải tệp, tạo ảnh, kỹ năng. Tài khoản Google của trường có Gemini miễn phí và dữ liệu không dùng để huấn luyện."
 head:
   - tag: meta
     attrs: { property: "og:image", content: "https://nepsach.github.io/so-tay-ai-mo/anh/gemini-ngang.png" }

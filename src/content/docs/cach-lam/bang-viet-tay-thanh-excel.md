@@ -1,6 +1,6 @@
 ---
 title: Bảng viết tay thành bảng Excel
-description: Biên bản kiểm kê, danh sách sách tặng viết tay: chụp ảnh, nhờ Gemini hoặc ChatGPT chuyển thành bảng, dán vào Excel. Tính năng «Dữ liệu từ Ảnh» của Excel chưa đọc được chữ tiếng Việt.
+description: "Biên bản kiểm kê, danh sách sách tặng viết tay: chụp ảnh, nhờ Gemini hoặc ChatGPT chuyển thành bảng, dán vào Excel. Tính năng «Dữ liệu từ Ảnh» của Excel chưa đọc được chữ tiếng Việt."
 head:
   - tag: meta
     attrs: { property: "og:image", content: "https://nepsach.github.io/so-tay-ai-mo/anh/bang-viet-tay-ngang.png" }
